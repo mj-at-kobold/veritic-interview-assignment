@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YRM35Or6gMC6KXahF9qeBa+nc4II9q228iM996LMgUMEQcOngTVueHcbN+uyC/6lluG0cqh3V34sseuSfI3JMA==",
+  "dgSpecHash": "6yUZHnSp0cCH6hOkqiuVHr/NcAN8hXSvBrteo/soPt4ncfPA5pxQilTdI53oKwfc0EVqCzlDEobotEYrzXufmg==",
   "success": true,
-  "projectFilePath": "C:\\src\\DeveloperInterviewAssignment\\DeveloperInterviewAssignment.csproj",
+  "projectFilePath": "C:\\veritic-interview-assignment\\DeveloperInterviewAssignment\\DeveloperInterviewAssignment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mjonauskis\\.nuget\\packages\\markdown\\2.2.1\\markdown.2.2.1.nupkg.sha512",
     "C:\\Users\\mjonauskis\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",

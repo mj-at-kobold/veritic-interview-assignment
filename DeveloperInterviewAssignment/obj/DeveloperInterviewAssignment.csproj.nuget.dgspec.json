@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\src\\DeveloperInterviewAssignment\\DeveloperInterviewAssignment.csproj": {}
+    "C:\\veritic-interview-assignment\\DeveloperInterviewAssignment\\DeveloperInterviewAssignment.csproj": {}
   },
   "projects": {
-    "C:\\src\\DeveloperInterviewAssignment\\DeveloperInterviewAssignment.csproj": {
+    "C:\\veritic-interview-assignment\\DeveloperInterviewAssignment\\DeveloperInterviewAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\src\\DeveloperInterviewAssignment\\DeveloperInterviewAssignment.csproj",
+        "projectUniqueName": "C:\\veritic-interview-assignment\\DeveloperInterviewAssignment\\DeveloperInterviewAssignment.csproj",
         "projectName": "DeveloperInterviewAssignment",
-        "projectPath": "C:\\src\\DeveloperInterviewAssignment\\DeveloperInterviewAssignment.csproj",
+        "projectPath": "C:\\veritic-interview-assignment\\DeveloperInterviewAssignment\\DeveloperInterviewAssignment.csproj",
         "packagesPath": "C:\\Users\\mjonauskis\\.nuget\\packages\\",
-        "outputPath": "C:\\src\\DeveloperInterviewAssignment\\obj\\",
+        "outputPath": "C:\\veritic-interview-assignment\\DeveloperInterviewAssignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

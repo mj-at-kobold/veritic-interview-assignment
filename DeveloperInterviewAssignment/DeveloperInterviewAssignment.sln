@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeveloperInterviewAssignment", "DeveloperInterviewAssignment.csproj", "{7705D009-0A2E-4354-8E6C-2A58AB4A4EDF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeveloperInterviewAssignmentTest", "..\UnitTestProject1\DeveloperInterviewAssignmentTest.csproj", "{63B4934C-4036-4EDC-AEB0-B8DCCA2AF705}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeveloperInterviewAssignmentTest", "..\DeveloperInterviewAssignmentUnitTests\DeveloperInterviewAssignmentTest.csproj", "{63B4934C-4036-4EDC-AEB0-B8DCCA2AF705}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{22CCA405-3297-49AB-8CF3-6F0E70C8F630}"
 	ProjectSection(SolutionItems) = preProject
